@@ -1,0 +1,39 @@
+[
+    {
+        "img":"./image/1.png",
+        "title":"德龙电水壶自动",
+        "price":459,
+        "pj":"2.6万条+评价"
+    },
+    {
+        "img":"./image/2.png",
+        "title":"戴森新一代吹风机",
+        "price":2490,
+        "pj":"5万条+评价"
+    },
+    {
+        "img":"./image/3.png",
+        "title":"微软日版Xbox",
+        "price":1799,
+        "pj":"2.1万条+评价"
+    },
+    {
+        "img":"./image/4.png",
+        "title":"JBL PULSE4 音乐脉动四代便",
+        "price":1799,
+        "pj":"9000条+评价"
+    },
+    {
+        "img":"./image/5.png",
+        "title":"Tripollar 初普美容仪面部",
+        "price":3992,
+        "pj":"200条+评价"
+    },
+    {
+        "img":"./image/6.png",
+        "title":"德龙",
+        "price":1399,
+        "pj":"2.2万条+评价"
+    }
+    
+]

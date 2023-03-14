@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/clearfix.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div id="box">
+        <div id="tab">
+              <ul>
+                <li class="active">
+                    <div>自营奶粉尿裤</div>
+                </li>
+                <li>
+                    <div>自营个护美妆</div>
+                </li>
+                <li>
+                    <div>自营营养</div>
+                </li>
+                <li>
+                    <div>自营数码电器</div>
+                </li>
+              </ul>
+              <div>
+                <div class="active">
+                    <img src="1.png" alt="">
+                    <img src="2.png" alt="">
+                </div>
+                <div>
+                    <img src="2.png" alt="">
+                    <img src="1.png" alt="">
+                </div>
+                <div>
+                    <img src="1.png" alt="">
+                    <img src="2.png" alt="">
+                </div>
+                <div>
+                    <img src="2.png" alt="">
+                    <img src="1.png" alt="">
+                </div>
+              </div>
+         </div>
+         <script type="module">
+            import Nav from './js1.js'
+            Nav('#tab')
+         </script>
+
+
+
+
+
+
+
+        <!-- 商品展示 -->
+        <ul id="list">
+            <!-- <li>
+                <img src="" alt="">
+                <p>11111</p>
+                <p style="color:red;">22222</p>
+                <p>33333</p>
+            </li> -->
+        </ul>
+
+
+    </div>
+    <script src="js/jquery-2.0.3.js"></script>
+    <script type="module">
+        import Nav from './js2.js'
+        getData()
+     </script>
+</body>
+</html>
